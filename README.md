@@ -34,7 +34,7 @@ An engaging yet simple project
 
 
 
-- [Demo Project](https://armanchinipardaz-web.github.io/armanchinipardaz-web/)
+- [Demo Project]( https://armanchinipardaz-web.github.io/trick-hover/)
 
 - Developed by armanchinipardaz
 
