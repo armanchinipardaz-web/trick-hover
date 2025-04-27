@@ -30,7 +30,7 @@ An engaging yet simple project
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![Image]
+![Image](https://github.com/user-attachments/assets/d6f8c913-c70c-4db4-85a9-28dbdc3d4104)
 
 
 
